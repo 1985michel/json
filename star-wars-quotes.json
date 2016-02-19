@@ -2,79 +2,79 @@
   
   {
         "id":01,
-        "quote":"When 900 years old, you reach… Look as good, you will not."
+        "quote":"When 900 years old, you reach… Look as good, you will not.",
         "who":"Yoda - Return Of The Jedi"
       
   },
   
   {
         "id":02,
-        "quote":"“The Dark Side of the Force is the pathway to many abilities some consider to be… Unnatural."
+        "quote":"“The Dark Side of the Force is the pathway to many abilities some consider to be… Unnatural.",
         "who":"Senator Palpatine – Revenge Of The Sith"
       
   },
   {
         "id":03,
-        "quote":"You don’t know how hard I found it, signing the order to terminate your life"
+        "quote":"You don’t know how hard I found it, signing the order to terminate your life",
         "who":"Governor ‘Grand Moff’ Tarkin – A New Hope"
         
   },
 
   {
         "id":04,
-        "quote":"He’s holding a thermal detonator!"
+        "quote":"He’s holding a thermal detonator!",
         "who":"C-3PO - Return Of The Jedi"
       
   },
   
   {
         "id":05,
-        "quote":"I sense great fear in you, Skywalker. You have hate… you have anger… but you don’t use them."
+        "quote":"I sense great fear in you, Skywalker. You have hate… you have anger… but you don’t use them.",
         "who":"Count Dooku – Attack Of The Clones"
       
   },
   {
         "id":06,
-        "quote":"Great, kid. Don’t get cocky"
+        "quote":"Great, kid. Don’t get cocky",
         "who":"Han Solo – A New Hope"
         
   },
   {
         "id":07,
-        "quote":"When 900 years old, you reach… Look as good, you will not."
+        "quote":"When 900 years old, you reach… Look as good, you will not.",
         "who":"Yoda - Return Of The Jedi"
       
   },
   
   {
         "id":08,
-        "quote":"Luke, you can destroy the Emperor. He has foreseen this. It is your destiny. Join me, and together we can rule the galaxy as father and son"
+        "quote":"Luke, you can destroy the Emperor. He has foreseen this. It is your destiny. Join me, and together we can rule the galaxy as father and son",
         "who":"Darth Vader - The Empire Strikes Back"
       
   },
   {
         "id":09,
-        "quote":"You can’t win, Darth. Strike me down, and I will become more powerful than you could possibly imagine."
+        "quote":"You can’t win, Darth. Strike me down, and I will become more powerful than you could possibly imagine.",
         "who":"Obi Wan Kenobi - A New Hope"
         
   },
   
   {
         "id":10,
-        "quote":"Aren't you a little short for a storm trooper?"
+        "quote":"Aren't you a little short for a storm trooper?",
         "who":"Princess Leia - A New Hope"
       
   },
   
   {
         "id":11,
-        "quote":"Why you stuck-up, half-witted, scruffy-looking nerf-herder!"
+        "quote":"Why you stuck-up, half-witted, scruffy-looking nerf-herder!",
         "who":"Princess Leia - The Empire Strikes Back"
       
   },
   {
         "id":12,
-        "quote":"Mmm. Lost a planet, Master Obi-Wan has. How embarrassing."
+        "quote":"Mmm. Lost a planet, Master Obi-Wan has. How embarrassing.",
         "who":"Yoda - Attack Of The Clones."
         
   },
