@@ -1,59 +1,59 @@
 [
   
   {
-        "id":01,
+        "id":1,
         "quote":"When 900 years old, you reach… Look as good, you will not.",
         "who":"Yoda - Return Of The Jedi"
       
   },
   
   {
-        "id":02,
+        "id":2,
         "quote":"“The Dark Side of the Force is the pathway to many abilities some consider to be… Unnatural.",
         "who":"Senator Palpatine – Revenge Of The Sith"
       
   },
   {
-        "id":03,
+        "id":3,
         "quote":"You don’t know how hard I found it, signing the order to terminate your life",
         "who":"Governor ‘Grand Moff’ Tarkin – A New Hope"
         
   },
 
   {
-        "id":04,
+        "id":4,
         "quote":"He’s holding a thermal detonator!",
         "who":"C-3PO - Return Of The Jedi"
       
   },
   
   {
-        "id":05,
+        "id":5,
         "quote":"I sense great fear in you, Skywalker. You have hate… you have anger… but you don’t use them.",
         "who":"Count Dooku – Attack Of The Clones"
       
   },
   {
-        "id":06,
+        "id":6,
         "quote":"Great, kid. Don’t get cocky",
         "who":"Han Solo – A New Hope"
         
   },
   {
-        "id":07,
+        "id":7,
         "quote":"When 900 years old, you reach… Look as good, you will not.",
         "who":"Yoda - Return Of The Jedi"
       
   },
   
   {
-        "id":08,
+        "id":8,
         "quote":"Luke, you can destroy the Emperor. He has foreseen this. It is your destiny. Join me, and together we can rule the galaxy as father and son",
         "who":"Darth Vader - The Empire Strikes Back"
       
   },
   {
-        "id":09,
+        "id":9,
         "quote":"You can’t win, Darth. Strike me down, and I will become more powerful than you could possibly imagine.",
         "who":"Obi Wan Kenobi - A New Hope"
         
@@ -77,7 +77,7 @@
         "quote":"Mmm. Lost a planet, Master Obi-Wan has. How embarrassing.",
         "who":"Yoda - Attack Of The Clones."
         
-  },
+  }
 
   
 ]
